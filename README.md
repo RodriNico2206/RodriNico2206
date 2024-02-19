@@ -1,9 +1,9 @@
-# Welcome to [Your Name]'s GitHub Profile! 👋
+# Welcome to Rodrigo's GitHub Profile! 👋
 
 ![Profile Banner](link_to_profile_banner_image)
 
 ## Introduction
-Hi there! I'm [Your Name], a passionate software developer with a love for creating innovative solutions and contributing to open-source projects. I thrive on challenges and enjoy collaborating with like-minded individuals to build amazing software.
+Como futuro ingeniero industrial, estudiante avanzado y autodidacta apasionado por los datos, tengo 25 años y actualmente me desempeño como Analista de Datos en Dicsys S.A, una compañía ubicada en Córdoba, Argentina. Poseo un amplio conocimiento en el tratamiento y análisis de datos, y continúo perfeccionando mis habilidades en esta área. Además, me dedico al desarrollo de mi dominio del idioma inglés en lectura, comprensión y comunicación verbal. Mi experiencia en el trabajo remoto me permite colaborar eficientemente desde cualquier ubicación.
 
 ## Key Skills and Expertise
 - Programming Languages: [List of languages]
