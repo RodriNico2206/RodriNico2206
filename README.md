@@ -62,4 +62,5 @@ A little more about me:
 - I'm always learning and exploring new technologies to expand my skill set.
 
 ## Contact
-You can reach out to me via email at [![Gmail](https://img.shields.io/badge/Gmail-%20-red)](mailto:your_gmail@example.com)
+You can reach out to me via email at
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
