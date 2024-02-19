@@ -17,8 +17,8 @@ Apasionado ingeniero industrial en formación con una sólida experiencia como a
 | #   | Repository Name                | Description                                     |
 | --- | ------------------------------ | ----------------------------------------------- |
 | 1   | [Exploratory analysis of Wines](https://github.com/RodriNico2206/Data-science-s-projects/blob/master/WineQT_analysis.ipynb) | .               |
-| 2   | [Project Name](link_to_repo2) | Brief description of the project.               |
-| 3   | [Project Name](link_to_repo3) | Brief description of the project.               |
+| 2   | [Exploratory analysis and Regression model for House's price](https://github.com/RodriNico2206/Data-science-s-projects/blob/master/Houses_price_analysis.ipynb) | .               |
+| 3   | [Project Name](link_to_repo3) | .               |
 
 ## Contributions
 - .
