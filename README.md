@@ -3,7 +3,7 @@
 ![Profile Banner](link_to_profile_banner_image)
 
 ## Introduction
-Como futuro ingeniero industrial, estudiante avanzado y autodidacta apasionado por los datos, tengo 25 años y actualmente me desempeño como Analista de Datos en Dicsys S.A, una compañía ubicada en Córdoba, Argentina. Poseo un amplio conocimiento en el tratamiento y análisis de datos, y continúo perfeccionando mis habilidades en esta área. Además, me dedico al desarrollo de mi dominio del idioma inglés en lectura, comprensión y comunicación verbal. Mi experiencia en el trabajo remoto me permite colaborar eficientemente desde cualquier ubicación.
+Apasionado ingeniero industrial en formación con una sólida experiencia como analista de datos en Dicsys S.A, una destacada empresa en Córdoba, Argentina. Mi entusiasmo por el aprendizaje continuo y mi habilidad para trabajar de manera efectiva en entornos remotos me han permitido destacarme en el campo del análisis de datos y la ingeniería industrial.
 
 
 ## Key Skills and Expertise
@@ -39,9 +39,9 @@ Feel free to connect with me on:
 
 ## About Me
 A little more about me:
-- I'm passionate about [specific interests/hobbies].
-- I believe in [a specific philosophy or approach to software development].
-- I'm always learning and exploring new technologies to expand my skill set.
+- Me apasiona explorar el potencial de los datos y su aplicación en la toma de decisiones efectivas.
+- Mi enfoque disciplinado y pasión por el aprendizaje continuo me impulsan a asumir nuevos desafíos y a perfeccionar mis habilidades constantemente.
+- Disfruto sumergirme en la lectura de libros que amplían mi perspectiva y mejorar mi inglés viendo series/películas.
 
 ## Contact
 You can reach out to me via email at 
