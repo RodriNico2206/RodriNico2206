@@ -39,14 +39,7 @@ Feel free to connect with me on:
 </center>
 
 ## About Me
-A little more about me:
+Un poco más sobre mí:
 - Me apasiona explorar el potencial de los datos y su aplicación en la toma de decisiones efectivas.
 - Mi enfoque disciplinado y pasión por el aprendizaje continuo me impulsan a asumir nuevos desafíos y a perfeccionar mis habilidades constantemente.
 - Disfruto sumergirme en la lectura de libros que amplían mi perspectiva y mejorar mi inglés viendo series/películas.
-
-## Contact
-You can reach out to me via email at 
-[![Email](https://img.shields.io/badge/Email-%20-blue)](mailto:your_email@example.com)
-or through Gmail: 
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-
