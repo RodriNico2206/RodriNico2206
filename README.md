@@ -47,5 +47,5 @@ A little more about me:
 You can reach out to me via email at 
 [![Email](https://img.shields.io/badge/Email-%20-blue)](mailto:your_email@example.com)
 or through Gmail: 
-[![Gmail](https://img.shields.io/badge/Gmail-%20-red)](mailto:your_gmail@example.com)
+[![Gmail](https://img.shields.io/badge/Gmail-%20-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your_gmail@example.com)
 
