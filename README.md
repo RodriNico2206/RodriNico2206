@@ -15,21 +15,24 @@ Apasionado ingeniero industrial en formación con una sólida experiencia como a
 
 
 - Tools & Technologies:
-
 <div align="center">
-  <img src="https://logos-world.net/wp-content/uploads/2020/09/Oracle-Logo-1995-Present.png" alt="Oracle Logo" style="width: 100px; height: 50px; margin-right: 20px;" />
+<img src="https://logos-world.net/wp-content/uploads/2020/09/Oracle-Logo-1995-Present.png" alt="Oracle Logo" style="width: 90px; height: 45px; margin-right: 20px;" />
   
-  <img src="https://airflow.apache.org/images/feature-image.png" alt="AirFlow Logo" style="width: 100px; height: 50px; margin-right: 20px;" />
+<img src="https://airflow.apache.org/images/feature-image.png" alt="AirFlow Logo" style="width: 90px; height: 45px; margin-right: 20px;" />
 
-  <img src="https://img-0.journaldunet.com/CpdkjiDgwxfhkVphP4Aae5WhnIQ=/540x/smart/b4f92d7c8461431d9e966a245a222145/ccmcms-jdn/11552839.jpg" alt="Bitbucket logo" style="width: 100px; height: 50px; margin-right: 20px;" />
+<img src="https://img-0.journaldunet.com/CpdkjiDgwxfhkVphP4Aae5WhnIQ=/540x/smart/b4f92d7c8461431d9e966a245a222145/ccmcms-jdn/11552839.jpg" alt="Bitbucket logo" style="width: 90px; height: 45px; margin-right: 20px;" />
   
-  <img style="width: 100px; height: 50px; margin-right: 20px;" src="https://datascientest.com/es/wp-content/uploads/sites/7/2020/10/power-bi-logo-1.jpg" alt="Power BI Logo" />  
+<img style="width: 90px; height: 45px; margin-right: 20px;" src="https://datascientest.com/es/wp-content/uploads/sites/7/2020/10/power-bi-logo-1.jpg" alt="Power BI Logo" />  
   
-  <img style="width: 100px; height: 50px; margin-right: 20px;" src="https://www.tableau.com/sites/default/files/2023-09/Tableau%20Cadence%20Release.png" alt="Tableau Logo" />  
+<img style="width: 90px; height: 45px; margin-right: 20px;" src="https://www.tableau.com/sites/default/files/2023-09/Tableau%20Cadence%20Release.png" alt="Tableau Logo" />  
   
-  <img src="https://miro.medium.com/v2/resize:fit:1400/1*-Yj3HpcmEuO7brKrfrdhOA.png" alt="Git Logo" style="width: 100px; height: 50px; margin-right: 20px;" />
+<img src="https://miro.medium.com/v2/resize:fit:1400/1*-Yj3HpcmEuO7brKrfrdhOA.png" alt="Git Logo" style="width: 90px; height: 45px; margin-right: 20px;" />
 
-  <img style="width: 100px; height: 50px; margin-right: 20px;" src="https://assets-global.website-files.com/5f5a53e153805db840dae2db/64e79ca5aff2fb7295bfddf9_github-que-es.jpg" height="40" alt="GitHub Logo" />
+<img style="width: 90px; height: 45px; margin-right: 20px;" src="https://assets-global.website-files.com/5f5a53e153805db840dae2db/64e79ca5aff2fb7295bfddf9_github-que-es.jpg" alt="GitHub Logo" />
+
+<img src="https://cubd.io/wp-content/uploads/2023/10/looker-studio-logo.png.webp" alt="Looker Studio" style="width: 90px; height: 45px; margin-right: 20px;" />
+
+<img src="https://logowik.com/content/uploads/images/microstrategy2962.logowik.com.webp" alt="MicroStrategy" style="width: 90px; height: 45px; margin-right: 20px;" />
 
 </div>
 
