@@ -30,8 +30,8 @@ Apasionado ingeniero industrial en formación con una sólida experiencia como a
 ## Follow Me
 Sientete libre de conectar conmigo en:
 <div id="badges" align="center">
-  <a href="address_mail"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/></a>  
-  <a href="link_to_linkedin_profile"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+  <a href="rodrigo.n.ayala18@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/></a>  
+  <a href="[link_to_linkedin_profile](https://www.linkedin.com/in/arodrigonicolas/)"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
   <a href="link_to_twitter_profile"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
 </div>
 
