@@ -7,14 +7,42 @@ Apasionado ingeniero industrial en formación con una sólida experiencia como a
 
 
 ## Key Skills and Expertise
-- Programming Languages: [List of languages]
+- Programming Languages:
 <div id="badges" align="center">
-  <img src="https://avatars.githubusercontent.com/u/1525981?s=280&v=4" alt="Profile Image" style="width: 80px; height: 80px; border-radius: 70%; border: 2px solid gray;"/>
+  <img src="https://miro.medium.com/v2/resize:fit:1400/1*lSTuwS4exV_s__kcShxk8w.png" alt="Profile Image" style="width: 80px; height: 80px;"/>
 </div>
 
-- Tools & Technologies: [List of tools and technologies]
-- Frameworks: [List of frameworks]
-- Methodologies: [List of methodologies]
+
+
+- Tools & Technologies:
+
+<div align="center">
+  <img src="https://logos-world.net/wp-content/uploads/2020/09/Oracle-Logo-1995-Present.png" alt="Oracle Logo" style="width: 100px; height: 50px; margin-right: 20px;" />
+  
+  <img src="https://airflow.apache.org/images/feature-image.png" alt="AirFlow Logo" style="width: 100px; height: 50px; margin-right: 20px;" />
+
+  <img src="https://img-0.journaldunet.com/CpdkjiDgwxfhkVphP4Aae5WhnIQ=/540x/smart/b4f92d7c8461431d9e966a245a222145/ccmcms-jdn/11552839.jpg" alt="Bitbucket logo" style="width: 100px; height: 50px; margin-right: 20px;" />
+  
+  <img style="width: 100px; height: 50px; margin-right: 20px;" src="https://datascientest.com/es/wp-content/uploads/sites/7/2020/10/power-bi-logo-1.jpg" alt="Power BI Logo" />  
+  
+  <img style="width: 100px; height: 50px; margin-right: 20px;" src="https://www.tableau.com/sites/default/files/2023-09/Tableau%20Cadence%20Release.png" alt="Tableau Logo" />  
+  
+  <img src="https://miro.medium.com/v2/resize:fit:1400/1*-Yj3HpcmEuO7brKrfrdhOA.png" alt="Git Logo" style="width: 100px; height: 50px; margin-right: 20px;" />
+
+  <img style="width: 100px; height: 50px; margin-right: 20px;" src="https://assets-global.website-files.com/5f5a53e153805db840dae2db/64e79ca5aff2fb7295bfddf9_github-que-es.jpg" height="40" alt="GitHub Logo" />
+
+</div>
+
+
+
+  
+- Frameworks:
+
+
+
+  
+- Methodologies:
+  
 
 ## Pinned Repositories
 
