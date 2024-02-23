@@ -6,46 +6,46 @@
 Apasionado ingeniero industrial en formación con una sólida experiencia como analista de datos en Dicsys S.A, una destacada empresa en Córdoba, Argentina. Mi entusiasmo por el aprendizaje continuo y mi habilidad para trabajar de manera efectiva en entornos remotos me han permitido destacarme en el campo del análisis de datos y la ingeniería industrial.
 
 
+
 ## Key Skills and Expertise
+
 - Programming Languages:
+
 <div id="badges" align="center">
   <img src="https://miro.medium.com/v2/resize:fit:1400/1*lSTuwS4exV_s__kcShxk8w.png" alt="Profile Image" style="width: 80px; height: 80px;"/>
 </div>
 
-
-
 - Tools & Technologies:
+
 <div align="center">
-<img src="https://logos-world.net/wp-content/uploads/2020/09/Oracle-Logo-1995-Present.png" alt="Oracle Logo" style="width: 90px; height: 45px; margin-right: 20px;" />
+  <img src="https://logos-world.net/wp-content/uploads/2020/09/Oracle-Logo-1995-Present.png" alt="Oracle Logo" style="width: 90px; height: 45px; margin-right: 20px;" />
   
-<img src="https://airflow.apache.org/images/feature-image.png" alt="AirFlow Logo" style="width: 90px; height: 45px; margin-right: 20px;" />
+  <img src="https://airflow.apache.org/images/feature-image.png" alt="AirFlow Logo" style="width: 90px; height: 45px; margin-right: 20px;" />
 
-<img src="https://img-0.journaldunet.com/CpdkjiDgwxfhkVphP4Aae5WhnIQ=/540x/smart/b4f92d7c8461431d9e966a245a222145/ccmcms-jdn/11552839.jpg" alt="Bitbucket logo" style="width: 90px; height: 45px; margin-right: 20px;" />
+  <img src="https://img-0.journaldunet.com/CpdkjiDgwxfhkVphP4Aae5WhnIQ=/540x/smart/b4f92d7c8461431d9e966a245a222145/ccmcms-jdn/11552839.jpg" alt="Bitbucket logo" style="width: 90px; height: 45px; margin-right: 20px;" />
   
-<img style="width: 90px; height: 45px; margin-right: 20px;" src="https://datascientest.com/es/wp-content/uploads/sites/7/2020/10/power-bi-logo-1.jpg" alt="Power BI Logo" />  
+  <img style="width: 90px; height: 45px; margin-right: 20px;" src="https://datascientest.com/es/wp-content/uploads/sites/7/2020/10/power-bi-logo-1.jpg" alt="Power BI Logo" />  
   
-<img style="width: 90px; height: 45px; margin-right: 20px;" src="https://logowik.com/content/uploads/images/tableau-software.jpg" alt="Tableau Logo" />  
+  <img style="width: 90px; height: 45px; margin-right: 20px;" src="https://logowik.com/content/uploads/images/tableau-software.jpg" alt="Tableau Logo" />  
   
-<img src="https://miro.medium.com/v2/resize:fit:1400/1*-Yj3HpcmEuO7brKrfrdhOA.png" alt="Git Logo" style="width: 90px; height: 45px; margin-right: 20px;" />
+  <img src="https://miro.medium.com/v2/resize:fit:1400/1*-Yj3HpcmEuO7brKrfrdhOA.png" alt="Git Logo" style="width: 90px; height: 45px; margin-right: 20px;" />
 
-<img style="width: 90px; height: 45px; margin-right: 20px;" src="https://assets-global.website-files.com/5f5a53e153805db840dae2db/64e79ca5aff2fb7295bfddf9_github-que-es.jpg" alt="GitHub Logo" />
+  <img style="width: 90px; height: 45px; margin-right: 20px;" src="https://assets-global.website-files.com/5f5a53e153805db840dae2db/64e79ca5aff2fb7295bfddf9_github-que-es.jpg" alt="GitHub Logo" />
 
-<img src="https://miro.medium.com/v2/resize:fit:1113/1*ogfPz_xNorkm_FaXyhgQGw.jpeg" alt="Looker Studio" style="width: 90px; height: 45px; margin-right: 20px;" />
+  <img src="https://miro.medium.com/v2/resize:fit:1400/1*-Yj3HpcmEuO7brKrfrdhOA.png" alt="Looker Studio" style="width: 90px; height: 45px; margin-right: 20px;" />
 
-<img src="https://logowik.com/content/uploads/images/microstrategy2962.logowik.com.webp" alt="MicroStrategy Logo" style="width: 90px; height: 45px; margin-right: 20px;" />
+  <img src="https://logowik.com/content/uploads/images/microstrategy2962.logowik.com.webp" alt="MicroStrategy Logo" style="width: 90px; height: 45px; margin-right: 20px;" />
 
-<img src="https://i.pinimg.com/1200x/31/29/0f/31290fab02bf2e2056abf43067256731.jpg" alt="Jira Logo" style="width: 90px; height: 45px; margin-right: 20px;" />
-
+  <img src="https://i.pinimg.com/1200x/31/29/0f/31290fab02bf2e2056abf43067256731.jpg" alt="Jira Logo" style="width: 90px; height: 45px; margin-right: 20px;" />
 </div>
 
-  
+
 - Methodologies:
 
 <div align="center">
-  
-<img src="https://metodologiascrum.readthedocs.io/en/latest/_images/scrumlogo.png" alt="Scrum Logo" style="width: 90px; height: 45px; margin-right: 20px;" />
-
+  <img src="https://metodologiascrum.readthedocs.io/en/latest/_images/scrumlogo.png" alt="Scrum Logo" style="width: 90px; height: 45px; margin-right: 20px;" />
 </div>
+
 
 
 ## Pinned Repositories
