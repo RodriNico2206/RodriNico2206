@@ -24,28 +24,29 @@ Apasionado ingeniero industrial en formación con una sólida experiencia como a
   
 <img style="width: 90px; height: 45px; margin-right: 20px;" src="https://datascientest.com/es/wp-content/uploads/sites/7/2020/10/power-bi-logo-1.jpg" alt="Power BI Logo" />  
   
-<img style="width: 90px; height: 45px; margin-right: 20px;" src="https://www.tableau.com/sites/default/files/2023-09/Tableau%20Cadence%20Release.png" alt="Tableau Logo" />  
+<img style="width: 90px; height: 45px; margin-right: 20px;" src="https://logowik.com/content/uploads/images/tableau-software.jpg" alt="Tableau Logo" />  
   
 <img src="https://miro.medium.com/v2/resize:fit:1400/1*-Yj3HpcmEuO7brKrfrdhOA.png" alt="Git Logo" style="width: 90px; height: 45px; margin-right: 20px;" />
 
 <img style="width: 90px; height: 45px; margin-right: 20px;" src="https://assets-global.website-files.com/5f5a53e153805db840dae2db/64e79ca5aff2fb7295bfddf9_github-que-es.jpg" alt="GitHub Logo" />
 
-<img src="https://cubd.io/wp-content/uploads/2023/10/looker-studio-logo.png.webp" alt="Looker Studio" style="width: 90px; height: 45px; margin-right: 20px;" />
+<img src="https://miro.medium.com/v2/resize:fit:1113/1*ogfPz_xNorkm_FaXyhgQGw.jpeg" alt="Looker Studio" style="width: 90px; height: 45px; margin-right: 20px;" />
 
-<img src="https://logowik.com/content/uploads/images/microstrategy2962.logowik.com.webp" alt="MicroStrategy" style="width: 90px; height: 45px; margin-right: 20px;" />
+<img src="https://logowik.com/content/uploads/images/microstrategy2962.logowik.com.webp" alt="MicroStrategy Logo" style="width: 90px; height: 45px; margin-right: 20px;" />
+
+<img src="https://i.pinimg.com/1200x/31/29/0f/31290fab02bf2e2056abf43067256731.jpg" alt="Jira Logo" style="width: 90px; height: 45px; margin-right: 20px;" />
 
 </div>
 
-
-
-  
-- Frameworks:
-
-
-
   
 - Methodologies:
+
+<div align="center">
   
+<img src="https://metodologiascrum.readthedocs.io/en/latest/_images/scrumlogo.png" alt="Scrum Logo" style="width: 90px; height: 45px; margin-right: 20px;" />
+
+</div>
+
 
 ## Pinned Repositories
 
