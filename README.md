@@ -8,6 +8,10 @@ Apasionado ingeniero industrial en formación con una sólida experiencia como a
 
 ## Key Skills and Expertise
 - Programming Languages: [List of languages]
+<div id="badges" align="center">
+  <img src="https://avatars.githubusercontent.com/u/1525981?s=280&v=4" alt="Profile Image" style="width: 80px; height: 80px; border-radius: 70%; border: 2px solid gray;"/>
+</div>
+
 - Tools & Technologies: [List of tools and technologies]
 - Frameworks: [List of frameworks]
 - Methodologies: [List of methodologies]
