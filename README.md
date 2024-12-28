@@ -52,6 +52,7 @@ Apasionado ingeniero industrial en formación con una sólida experiencia como a
 | 1   | [Data science's projects](https://github.com/RodriNico2206/Data-science-s-projects/tree/master) | .               | <div align="center"> <img style="width: 55px; height: 55px; margin-right: 40px;"  src="https://cdn.openwebinars.net/media/fbads-pandas.jpg" alt="Pandas"> <img style="width: 55px; height: 55px; margin-right: 40px;" src="https://user-images.githubusercontent.com/5201843/67641199-7051e700-f926-11e9-9920-56cf953c073a.png" alt="Numpy"> <img style="width: 55px; height: 55px; margin-right: 40px;" src="https://helve-blog.com/images/icon/matplotlib.png" alt="Matplotlib"> <img style="width: 55px; height: 55px; margin-right: 40px;" src="https://i.pinimg.com/474x/cc/aa/c9/ccaac9b2ce19a131fa386c3b7cc0c923.jpg" alt="Seaborn"> <img style="width: 55px; height: 55px; margin-right: 40px;" src="https://globetechsoft.com/wp-content/uploads/2023/04/png-clipart-logo-scikit-learn-python-github-machine-learning-text-orange-300x201.png" alt="Scikit-Learn"> </div> |
 | 2   | [Power-BI's projects](https://github.com/RodriNico2206/Power-BI) | .               | <div align="center"> <img style="width: 55px; height: 55px; margin-right: 40px;"  src="https://koesio.com/wp-content/uploads/2021/07/160-power-bi-logo.jpg" alt="Pandas"> </div> |
 | 3   | [Project Name](link_to_repo3) | .               | . |
+| 4   | [Project Name](link_to_repo3) | .               | . |
 
 
 ## Contributions
