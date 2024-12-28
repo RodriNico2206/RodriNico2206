@@ -17,6 +17,7 @@ Apasionado ingeniero industrial en formación con una sólida experiencia como a
 
 - Tools & Technologies:
 
+
 <div align="center">
   <img src="https://logos-world.net/wp-content/uploads/2020/09/Oracle-Logo-1995-Present.png" alt="Oracle Logo" style="width: 90px; height: 45px; margin-right: 20px;" />
   
