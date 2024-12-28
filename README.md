@@ -71,8 +71,7 @@ Apasionado ingeniero industrial en formación con una sólida experiencia como a
   <img src="https://helve-blog.com/images/icon/matplotlib.png" alt="Matplotlib Logo" style="height: 55px; margin-right: 20px;" />
   <img src="https://i.pinimg.com/474x/cc/aa/c9/ccaac9b2ce19a131fa386c3b7cc0c923.jpg" alt="Seaborn Logo" style="height: 55px; margin-right: 20px;" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn Logo" style="height: 55px; margin-right: 20px;" />
-</div>
- |
+</div> |
 | 2   | [Power-BI's projects](https://github.com/RodriNico2206/Power-BI) | .               | <div align="center"> <img style="width: 55px; height: 55px; margin-right: 40px;"
     src="https://koesio.com/wp-content/uploads/2021/07/160-power-bi-logo.jpg" alt="Pandas"> </div> |
 | 3   | [Useful Scripts PL-SQL](https://github.com/RodriNico2206/Handy_scripts_sql) | .               | <div align="center"> <img style="width: 55px; height: 55px; margin-right: 40px;" src="https://snti.in/images/plsql-card.png" alt="PL-SQL Oracle"> </div> |
