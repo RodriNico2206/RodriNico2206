@@ -11,9 +11,13 @@ Apasionado ingeniero industrial en formación con una sólida experiencia como a
 
 - Programming Languages:
 
-<div id="badges" align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:1400/1*lSTuwS4exV_s__kcShxk8w.png" alt="Python" style="width: 80px; height: 80px;"/>
+<div align="center">
+  <img src="https://snti.in/images/plsql-card.png" alt="PL-SQL Oracle" style="width: 90px; height: 45px; margin-right: 20px;" />
+  
+  <img src="https://miro.medium.com/v2/resize:fit:1400/1*lSTuwS4exV_s__kcShxk8w.png" alt="Python" style="width: 90px; height: 45px; margin-right: 20px;" />
+
 </div>
+
 
 - Tools & Technologies:
 
