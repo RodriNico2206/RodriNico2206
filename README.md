@@ -12,36 +12,49 @@ Apasionado ingeniero industrial en formación con una sólida experiencia como a
 - Programming Languages:
 
 <div id="badges" align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:1400/1*lSTuwS4exV_s__kcShxk8w.png" alt="Profile Image" style="width: 80px; height: 80px;"/>
+  <img src="https://miro.medium.com/v2/resize:fit:1400/1*lSTuwS4exV_s__kcShxk8w.png" alt="Python"
+    style="width: 80px; height: 80px;" />
+  <img src="https://snti.in/images/plsql-card.png" alt="PL-SQL Oracle" style="width: 80px; height: 80px;" />
 </div>
 
 - Tools & Technologies:
 
 <div align="center">
-  <img src="https://logos-world.net/wp-content/uploads/2020/09/Oracle-Logo-1995-Present.png" alt="Oracle Logo" style="width: 90px; height: 45px; margin-right: 20px;" />
-  
-  <img src="https://airflow.apache.org/images/feature-image.png" alt="AirFlow Logo" style="width: 90px; height: 45px; margin-right: 20px;" />
+  <img src="https://logos-world.net/wp-content/uploads/2020/09/Oracle-Logo-1995-Present.png" alt="Oracle Logo"
+    style="width: 90px; height: 45px; margin-right: 20px;" />
 
-  <img src="https://img-0.journaldunet.com/CpdkjiDgwxfhkVphP4Aae5WhnIQ=/540x/smart/b4f92d7c8461431d9e966a245a222145/ccmcms-jdn/11552839.jpg" alt="Bitbucket logo" style="width: 90px; height: 45px; margin-right: 20px;" />
-  
-  <img style="width: 90px; height: 45px; margin-right: 20px;" src="https://koesio.com/wp-content/uploads/2021/07/160-power-bi-logo.jpg" alt="Power BI Logo" />  
-  
-  <img style="width: 90px; height: 45px; margin-right: 20px;" src="https://logowik.com/content/uploads/images/tableau-software.jpg" alt="Tableau Logo" />  
-  
-  <img src="https://miro.medium.com/v2/resize:fit:1400/1*-Yj3HpcmEuO7brKrfrdhOA.png" alt="Git Logo" style="width: 90px; height: 45px; margin-right: 20px;" />
+  <img src="https://airflow.apache.org/images/feature-image.png" alt="AirFlow Logo"
+    style="width: 90px; height: 45px; margin-right: 20px;" />
 
-  <img src="https://styles.redditmedia.com/t5_36mqa/styles/communityIcon_392fktd7xfm61.png" alt="Looker Studio" style="width: 90px; height: 45px; margin-right: 20px;" />
+  <img
+    src="https://img-0.journaldunet.com/CpdkjiDgwxfhkVphP4Aae5WhnIQ=/540x/smart/b4f92d7c8461431d9e966a245a222145/ccmcms-jdn/11552839.jpg"
+    alt="Bitbucket logo" style="width: 90px; height: 45px; margin-right: 20px;" />
 
-  <img src="https://logowik.com/content/uploads/images/microstrategy2962.logowik.com.webp" alt="MicroStrategy Logo" style="width: 90px; height: 45px; margin-right: 20px;" />
+  <img style="width: 90px; height: 45px; margin-right: 20px;"
+    src="https://koesio.com/wp-content/uploads/2021/07/160-power-bi-logo.jpg" alt="Power BI Logo" />
 
-  <img src="https://i.pinimg.com/1200x/31/29/0f/31290fab02bf2e2056abf43067256731.jpg" alt="Jira Logo" style="width: 90px; height: 45px; margin-right: 20px;" />
+  <img style="width: 90px; height: 45px; margin-right: 20px;"
+    src="https://logowik.com/content/uploads/images/tableau-software.jpg" alt="Tableau Logo" />
+
+  <img src="https://miro.medium.com/v2/resize:fit:1400/1*-Yj3HpcmEuO7brKrfrdhOA.png" alt="Git Logo"
+    style="width: 90px; height: 45px; margin-right: 20px;" />
+
+  <img src="https://styles.redditmedia.com/t5_36mqa/styles/communityIcon_392fktd7xfm61.png" alt="Looker Studio"
+    style="width: 90px; height: 45px; margin-right: 20px;" />
+
+  <img src="https://logowik.com/content/uploads/images/microstrategy2962.logowik.com.webp" alt="MicroStrategy Logo"
+    style="width: 90px; height: 45px; margin-right: 20px;" />
+
+  <img src="https://i.pinimg.com/1200x/31/29/0f/31290fab02bf2e2056abf43067256731.jpg" alt="Jira Logo"
+    style="width: 90px; height: 45px; margin-right: 20px;" />
 </div>
 
 
 - Methodologies:
 
 <div align="center">
-  <img src="https://metodologiascrum.readthedocs.io/en/latest/_images/scrumlogo.png" alt="Scrum Logo" style="width: 90px; height: 45px; margin-right: 20px;" />
+  <img src="https://metodologiascrum.readthedocs.io/en/latest/_images/scrumlogo.png" alt="Scrum Logo"
+    style="width: 90px; height: 45px; margin-right: 20px;" />
 </div>
 
 
@@ -49,9 +62,23 @@ Apasionado ingeniero industrial en formación con una sólida experiencia como a
 
 | #   | Repository Name                | Description                                     | Technology |
 | --- | ------------------------------ | ----------------------------------------------- | ---------- |
-| 1   | [Data science's projects](https://github.com/RodriNico2206/Data-science-s-projects/tree/master) | .               | <div align="center"> <img style="width: 55px; height: 55px; margin-right: 40px;"  src="https://cdn.openwebinars.net/media/fbads-pandas.jpg" alt="Pandas"> <img style="width: 55px; height: 55px; margin-right: 40px;" src="https://user-images.githubusercontent.com/5201843/67641199-7051e700-f926-11e9-9920-56cf953c073a.png" alt="Numpy"> <img style="width: 55px; height: 55px; margin-right: 40px;" src="https://helve-blog.com/images/icon/matplotlib.png" alt="Matplotlib"> <img style="width: 55px; height: 55px; margin-right: 40px;" src="https://i.pinimg.com/474x/cc/aa/c9/ccaac9b2ce19a131fa386c3b7cc0c923.jpg" alt="Seaborn"> <img style="width: 55px; height: 55px; margin-right: 40px;" src="https://globetechsoft.com/wp-content/uploads/2023/04/png-clipart-logo-scikit-learn-python-github-machine-learning-text-orange-300x201.png" alt="Scikit-Learn"> </div> |
-| 2   | [Power-BI's projects](https://github.com/RodriNico2206/Power-BI) | .               | <div align="center"> <img style="width: 55px; height: 55px; margin-right: 40px;"  src="https://koesio.com/wp-content/uploads/2021/07/160-power-bi-logo.jpg" alt="Pandas"> </div> |
-| 3   | [Project Name](link_to_repo3) | .               | . |
+| 1   | [Data science's projects](https://github.com/RodriNico2206/Data-science-s-projects/tree/master) | .               | <div align="center"> <img style="width: 55px; height: 55px; margin-right: 40px;"
+    src="https://cdn.openwebinars.net/media/fbads-pandas.jpg" alt="Pandas"> <img
+    style="width: 55px; height: 55px; margin-right: 40px;"
+    src="https://user-images.githubusercontent.com/5201843/67641199-7051e700-f926-11e9-9920-56cf953c073a.png"
+    alt="Numpy"> <img style="width: 55px; height: 55px; margin-right: 40px;"
+    src="https://helve-blog.com/images/icon/matplotlib.png" alt="Matplotlib"> <img
+    style="width: 55px; height: 55px; margin-right: 40px;"
+    src="https://i.pinimg.com/474x/cc/aa/c9/ccaac9b2ce19a131fa386c3b7cc0c923.jpg" alt="Seaborn"> <img
+    style="width: 55px; height: 55px; margin-right: 40px;"
+    src="https://globetechsoft.com/wp-content/uploads/2023/04/png-clipart-logo-scikit-learn-python-github-machine-learning-text-orange-300x201.png"
+    alt="Scikit-Learn"> </div> |
+| 2   | [Power-BI's projects](https://github.com/RodriNico2206/Power-BI) | .               | <div align="center"> <img style="width: 55px; height: 55px; margin-right: 40px;"
+    src="https://koesio.com/wp-content/uploads/2021/07/160-power-bi-logo.jpg" alt="Pandas"> </div> |
+| 3   | [Useful Scripts PL-SQL](https://github.com/RodriNico2206/Handy_scripts_sql) | .               | <div align="center"> <img style="width: 55px; height: 55px; margin-right: 40px;"
+    src="https://snti.in/images/plsql-card.png" alt="PL-SQL Oracle"> </div> |
+| 4   | [Useful Scripts PL-SQL](https://github.com/RodriNico2206/Handy_scripts_python) | .               | <div align="center"> <img style="width: 55px; height: 55px; margin-right: 40px;"
+    src="https://miro.medium.com/v2/resize:fit:1400/1*lSTuwS4exV_s__kcShxk8w.png" alt="Python"> </div> |
 
 
 ## Contributions
