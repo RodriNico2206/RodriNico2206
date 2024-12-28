@@ -24,7 +24,7 @@ Apasionado ingeniero industrial en formación con una sólida experiencia como a
 
   <img src="https://img-0.journaldunet.com/CpdkjiDgwxfhkVphP4Aae5WhnIQ=/540x/smart/b4f92d7c8461431d9e966a245a222145/ccmcms-jdn/11552839.jpg" alt="Bitbucket logo" style="width: 90px; height: 45px; margin-right: 20px;" />
   
-  <img style="width: 90px; height: 45px; margin-right: 20px;" src="https://datascientest.com/es/wp-content/uploads/sites/7/2020/10/power-bi-logo-1.jpg" alt="Power BI Logo" />  
+  <img style="width: 90px; height: 45px; margin-right: 20px;" src="https://img.icons8.com/color/48/power-bi.png" alt="Power BI Logo" />  
   
   <img style="width: 90px; height: 45px; margin-right: 20px;" src="https://logowik.com/content/uploads/images/tableau-software.jpg" alt="Tableau Logo" />  
   
