@@ -24,7 +24,7 @@ Apasionado ingeniero industrial en formación con una sólida experiencia como a
 
   <img src="https://img-0.journaldunet.com/CpdkjiDgwxfhkVphP4Aae5WhnIQ=/540x/smart/b4f92d7c8461431d9e966a245a222145/ccmcms-jdn/11552839.jpg" alt="Bitbucket logo" style="width: 90px; height: 45px; margin-right: 20px;" />
   
-  <img style="width: 90px; height: 45px; margin-right: 20px;" src="https://lumenbusiness.co.nz/wp-content/uploads/2021/09/power-bi-logo.png" alt="Power BI Logo" />  
+  <img style="width: 90px; height: 45px; margin-right: 20px;" src="https://koesio.com/wp-content/uploads/2021/07/160-power-bi-logo.jpg" alt="Power BI Logo" />  
   
   <img style="width: 90px; height: 45px; margin-right: 20px;" src="https://logowik.com/content/uploads/images/tableau-software.jpg" alt="Tableau Logo" />  
   
@@ -50,7 +50,7 @@ Apasionado ingeniero industrial en formación con una sólida experiencia como a
 | #   | Repository Name                | Description                                     | Technology |
 | --- | ------------------------------ | ----------------------------------------------- | ---------- |
 | 1   | [Data science's projects](https://github.com/RodriNico2206/Data-science-s-projects/tree/master) | .               | <div align="center"> <img style="width: 55px; height: 55px; margin-right: 40px;"  src="https://cdn.openwebinars.net/media/fbads-pandas.jpg" alt="Pandas"> <img style="width: 55px; height: 55px; margin-right: 40px;" src="https://user-images.githubusercontent.com/5201843/67641199-7051e700-f926-11e9-9920-56cf953c073a.png" alt="Numpy"> <img style="width: 55px; height: 55px; margin-right: 40px;" src="https://helve-blog.com/images/icon/matplotlib.png" alt="Matplotlib"> <img style="width: 55px; height: 55px; margin-right: 40px;" src="https://i.pinimg.com/474x/cc/aa/c9/ccaac9b2ce19a131fa386c3b7cc0c923.jpg" alt="Seaborn"> <img style="width: 55px; height: 55px; margin-right: 40px;" src="https://globetechsoft.com/wp-content/uploads/2023/04/png-clipart-logo-scikit-learn-python-github-machine-learning-text-orange-300x201.png" alt="Scikit-Learn"> </div> |
-| 2   | [Power-BI's projects](https://github.com/RodriNico2206/Power-BI) | .               | Python, Pandas, Scikit-Learn |
+| 2   | [Power-BI's projects](https://github.com/RodriNico2206/Power-BI) | .               | <div align="center"> <img style="width: 55px; height: 55px; margin-right: 40px;"  src="https://koesio.com/wp-content/uploads/2021/07/160-power-bi-logo.jpg" alt="Pandas"> </div> |
 | 3   | [Project Name](link_to_repo3) | .               | . |
 
 
