@@ -14,13 +14,15 @@ Apasionado ingeniero industrial en formación con una sólida experiencia como a
 <div id="badges" align="center">
   <img src="https://miro.medium.com/v2/resize:fit:1400/1*lSTuwS4exV_s__kcShxk8w.png" alt="Python"
     style="width: 80px; height: 80px;" />
+
   <img src="https://snti.in/images/plsql-card.png" alt="PL-SQL Oracle" style="width: 80px; height: 80px;" />
+
 </div>
 
 - Tools & Technologies:
 
 
-<div align="center">
+<div id= "badges" align="center">
   <img src="https://logos-world.net/wp-content/uploads/2020/09/Oracle-Logo-1995-Present.png" alt="Oracle Logo"
     style="width: 90px; height: 45px; margin-right: 20px;" />
 
