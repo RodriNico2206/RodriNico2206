@@ -59,19 +59,14 @@ Apasionado ingeniero industrial en formación con una sólida experiencia como a
 | 4   | [Useful scripts Python](https://github.com/RodriNico2206/Handy_scripts_python) | Scripts of Python, which i developed like a hobby, These are useful to perfome and get better my own daily work               | <div align="center"> <img style="width: 55px; height: 55px; margin-right: 40px;"  src="https://miro.medium.com/v2/resize:fit:1400/1*lSTuwS4exV_s__kcShxk8w.png" alt="Python"> </div> |
 
 
-## Contributions
-- .
-- .
 
 ## Activity Graph
-![Activity Graph]
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RodriNico2206&show_icons=true&locale=en&theme=dark&text_color=00ff00&title_color=00ff00&icon_color=00ff00&bg_color=000000" alt="Activity graph" />
 </p>
 
 
-###
 
 ## Follow Me
 Sientete libre de conectar conmigo en:
