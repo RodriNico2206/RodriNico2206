@@ -64,9 +64,11 @@ Apasionado ingeniero industrial en formación con una sólida experiencia como a
 - .
 
 ## Activity Graph
-![Activity Graph](link_to_activity_graph_image)
+![Activity Graph]
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RodriNico2206&show_icons=true&locale=en" alt="sdfsdf" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RodriNico2206&show_icons=true&locale=en&theme=dark&text_color=00ff00&title_color=00ff00&icon_color=00ff00&bg_color=000000" alt="Activity graph" />
+</p>
 
 
 ###
