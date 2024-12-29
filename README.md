@@ -66,9 +66,8 @@ Apasionado ingeniero industrial en formación con una sólida experiencia como a
 ## Activity Graph
 ![Activity Graph](link_to_activity_graph_image)
 
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
-</div>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RodriNico2206&show_icons=true&locale=en" alt="sdfsdf" /></p>
+
 
 ###
 
