@@ -53,10 +53,10 @@ Apasionado ingeniero industrial en formación con una sólida experiencia como a
 
 | #   | Repository Name                | Description                                     | Technology |
 | --- | ------------------------------ | ----------------------------------------------- | ---------- |
-| 1   | [Data science's projects](https://github.com/RodriNico2206/Data-science-s-projects/tree/master) | .               | <div align="center"> <img style="width: 55px; height: 55px; margin-right: 40px;"  src="https://cdn.openwebinars.net/media/fbads-pandas.jpg" alt="Pandas"> <img style="width: 55px; height: 55px; margin-right: 40px;" src="https://user-images.githubusercontent.com/5201843/67641199-7051e700-f926-11e9-9920-56cf953c073a.png" alt="Numpy"> <img style="width: 55px; height: 55px; margin-right: 40px;" src="https://helve-blog.com/images/icon/matplotlib.png" alt="Matplotlib"> <img style="width: 55px; height: 55px; margin-right: 40px;" src="https://i.pinimg.com/474x/cc/aa/c9/ccaac9b2ce19a131fa386c3b7cc0c923.jpg" alt="Seaborn"> <img style="width: 55px; height: 55px; margin-right: 40px;" src="https://globetechsoft.com/wp-content/uploads/2023/04/png-clipart-logo-scikit-learn-python-github-machine-learning-text-orange-300x201.png" alt="Scikit-Learn"> </div> |
-| 2   | [Power-BI's projects](https://github.com/RodriNico2206/Power-BI) | .               | <div align="center"> <img style="width: 55px; height: 55px; margin-right: 40px;"  src="https://koesio.com/wp-content/uploads/2021/07/160-power-bi-logo.jpg" alt="Power BI"> </div> |
-| 3   | [Useful scripts PL-SQL Oracle](https://github.com/RodriNico2206/Handy_scripts_sql) | .               | <div align="center"> <img style="width: 55px; height: 55px; margin-right: 40px;"  src="https://snti.in/images/plsql-card.png" alt="PL-SQL Oracle"> </div> |
-| 4   | [Useful scripts Python](https://github.com/RodriNico2206/Handy_scripts_python) | .               | <div align="center"> <img style="width: 55px; height: 55px; margin-right: 40px;"  src="https://miro.medium.com/v2/resize:fit:1400/1*lSTuwS4exV_s__kcShxk8w.png" alt="Python"> </div> |
+| 1   | [Data science's projects](https://github.com/RodriNico2206/Data-science-s-projects/tree/master) | Projects that were developed on my way through data analysis               | <div align="center"> <img style="width: 55px; height: 55px; margin-right: 40px;"  src="https://cdn.openwebinars.net/media/fbads-pandas.jpg" alt="Pandas"> <img style="width: 55px; height: 55px; margin-right: 40px;" src="https://user-images.githubusercontent.com/5201843/67641199-7051e700-f926-11e9-9920-56cf953c073a.png" alt="Numpy"> <img style="width: 55px; height: 55px; margin-right: 40px;" src="https://helve-blog.com/images/icon/matplotlib.png" alt="Matplotlib"> <img style="width: 55px; height: 55px; margin-right: 40px;" src="https://i.pinimg.com/474x/cc/aa/c9/ccaac9b2ce19a131fa386c3b7cc0c923.jpg" alt="Seaborn"> <img style="width: 55px; height: 55px; margin-right: 40px;" src="https://globetechsoft.com/wp-content/uploads/2023/04/png-clipart-logo-scikit-learn-python-github-machine-learning-text-orange-300x201.png" alt="Scikit-Learn"> </div> |
+| 2   | [Power-BI's projects](https://github.com/RodriNico2206/Power-BI) | Projects that were developed on due to my passion for analysis and visualization data               | <div align="center"> <img style="width: 55px; height: 55px; margin-right: 40px;"  src="https://koesio.com/wp-content/uploads/2021/07/160-power-bi-logo.jpg" alt="Power BI"> </div> |
+| 3   | [Useful scripts PL-SQL Oracle](https://github.com/RodriNico2206/Handy_scripts_sql) | Scripts PL SQL in oracle which i developed like a hobby, These are useful to perfome and get better my own daily work                | <div align="center"> <img style="width: 55px; height: 55px; margin-right: 40px;"  src="https://snti.in/images/plsql-card.png" alt="PL-SQL Oracle"> </div> |
+| 4   | [Useful scripts Python](https://github.com/RodriNico2206/Handy_scripts_python) | Scripts of Python, which i developed like a hobby, These are useful to perfome and get better my own daily work               | <div align="center"> <img style="width: 55px; height: 55px; margin-right: 40px;"  src="https://miro.medium.com/v2/resize:fit:1400/1*lSTuwS4exV_s__kcShxk8w.png" alt="Python"> </div> |
 
 
 ## Contributions
@@ -65,6 +65,12 @@ Apasionado ingeniero industrial en formación con una sólida experiencia como a
 
 ## Activity Graph
 ![Activity Graph](link_to_activity_graph_image)
+
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
+</div>
+
+###
 
 ## Follow Me
 Sientete libre de conectar conmigo en:
